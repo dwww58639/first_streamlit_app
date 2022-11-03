@@ -2,7 +2,7 @@ import streamlit
 import pandas
 import requests
 import snowflake.connector
-import urllib.error inport URLError
+import urllib.error import URLError
 
 
 
